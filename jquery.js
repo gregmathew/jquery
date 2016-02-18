@@ -1,3 +1,4 @@
 console.log('loading..');
-console.log('loading.....');
-
+$(function(){
+	$('.gregmathee').html('Hello World');
+});
